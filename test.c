@@ -3,6 +3,6 @@
 int main()
 {
 
-printf("test");
+printf("test - lenovo");
 return 0;
 }
