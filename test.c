@@ -3,6 +3,6 @@
 int main()
 {
 
-printf("add then commit");
+printf("local commit");
 return 0;
 }
