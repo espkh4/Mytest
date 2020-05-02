@@ -3,6 +3,6 @@
 int main()
 {
 
-printf("test - leno");
+printf("add then commit then fetch");
 return 0;
 }
