@@ -3,6 +3,6 @@
 int main()
 {
 
-printf("add then commit fetch");
+printf("add then commit");
 return 0;
 }
